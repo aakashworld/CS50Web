@@ -1,0 +1,15 @@
+.success, .warning, .error {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold; }
+
+.success {
+  background-color: pink; }
+
+.warning {
+  background-color: orange; }
+
+.error {
+  background-color: purple; }
+
+/*# sourceMappingURL=inheritance.css.map */
